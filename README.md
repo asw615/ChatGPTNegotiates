@@ -1,4 +1,5 @@
-# ChatGPTNegotiates
+# Assessing the Possibilities of Using Generative Agent-Based Models in Researching the Effects of Pay Transparency on Wage Gaps![Uploading image.png…]()
+
 
 This project investigates the use of **Generative Agent-Based Modeling (GABM)** to simulate the effects of pay transparency on salary negotiations and wage gaps. Inspired by the European Union's 2023 pay transparency directive, the study models workplaces under transparent and non-transparent salary conditions to assess how generative agents interact, negotiate, and influence wage equity.
 
